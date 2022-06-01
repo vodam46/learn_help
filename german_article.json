@@ -1,0 +1,26 @@
+{
+	"1 Nominativ": {
+		"Maskulin": "der",
+		"Feminin":  "die",
+		"Neutral":  "das",
+		"Plural":   "die"
+	},
+	"2 Genitiv": {
+		"Maskulin": "des",
+		"Feminin":  "der",
+		"Neutral":  "des",
+		"Plural":   "der"
+	},
+	"3 Dativ": {
+		"Maskulin": "dem",
+		"Feminin":  "der",
+		"Neutral":  "dem",
+		"Plural":   "den"
+	},
+	"4 Akusativ": {
+		"Maskulin": "den",
+		"Feminin":  "die",
+		"Neutral":  "das",
+		"Plural":   "die"
+	}
+}
