@@ -1,0 +1,71 @@
+{
+	"aus": {
+		"from": "3"
+	},
+	"bei": {
+		"by": "3"
+	},
+	"mit": {
+		"with": "3"
+	},
+	"nach": {
+		"to": "3"
+	},
+	"von": {
+		"from": "3"
+	},
+	"zu": {
+		"to": "3"
+	},
+	"gegenüber": {
+		"oposite": "3"
+	},
+	"seit": {
+		"since": "3"
+	},
+	"durch": {
+		"through": "4"
+	},
+	"für": {
+		"for": "4"
+	},
+	"ohne": {
+		"without": "4"
+	},
+	"gegen": {
+		"against": "4"
+	},
+	"um": {
+		"by": "4"
+	},
+	"bis": {
+		"to": "4"
+	},
+	"auf": {
+		"to": "34"
+	},
+	"an": {
+		"to": "34"
+	},
+	"in": {
+		"in": "34"
+	},
+	"vor": {
+		"before": "34"
+	},
+	"hinter": {
+		"behind": "34"
+	},
+	"über": {
+		"above": "34"
+	},
+	"unter": {
+		"under": "34"
+	},
+	"neben": {
+		"next": "34"
+	},
+	"zwischen": {
+		"between": "34"
+	}
+}
